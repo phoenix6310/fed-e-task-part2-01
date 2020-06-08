@@ -1,0 +1,5 @@
+title: <%= title %>
+success:
+<% if (success) {%>
+<%= success %> 
+<% } %>
